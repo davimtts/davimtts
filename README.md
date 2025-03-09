@@ -52,5 +52,7 @@ Também utilizo Git para versionamento, e tô sempre aprimorando minhas habilida
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIZIMMT&layout=compact&theme=transparent&hide_border=true&langs_count=9&hide=blade" 
   />
 </p>
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+
+<!-- GitHub Snake -->
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
