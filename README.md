@@ -56,4 +56,11 @@ Também utilizo Git para versionamento, e tô sempre aprimorando minhas habilida
 <!-- GitHub Snake -->
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
+<!-- Achievements -->
+![trophy](https://github-profile-trophy.vercel.app/?username=DAVIZIMMT)
 
+<!-- Repositories -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DAVIZIMMT&repo=SEU_REPOSITORIO)](https://github.com/DAVIZIMMT/SEU_REPOSITORIO)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DAVIZIMMT&theme=dark)
