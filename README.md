@@ -53,5 +53,5 @@ Também utilizo Git para versionamento, e tô sempre aprimorando minhas habilida
   />
 </p>
 
-<!-- GitHub Activity Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DAVIZIMMT&theme=react)
+<!-- GitHub Snake -->
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
