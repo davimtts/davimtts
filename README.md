@@ -54,7 +54,8 @@ Também utilizo Git para versionamento, e tô sempre aprimorando minhas habilida
 </p>
 
 <!-- GitHub Snake -->
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?background=#000)
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?background=000000)
+
 
 
 
