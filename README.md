@@ -45,16 +45,13 @@ Também utilizo Git para versionamento, e tô sempre aprimorando minhas habilida
     src="https://github-readme-stats.vercel.app/api?username=DAVIZIMMT&show_icons=true&rank_icons=&include_all_commits=false&theme=transparent&hide_border=true" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIZIMMT&layout=compact&theme=transparent&hide_border=true&langs_count=9&hide=blade" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIZIMMT&layout=compact&theme=transparent&hide_border=true&langs_count=9&hide=blade" 
   />
 </p>
-
-<!-- GitHub Snake -->
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <!-- GitHub Activity Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DAVIZIMMT&theme=react)
